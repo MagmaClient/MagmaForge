@@ -1,15 +1,15 @@
 [
 {
   "modid": "mcp",
-  "name": "Minecraft Coder Pack",
-  "description": "Modding toolkit to decompile and deobfuscate the Minecraft client and server files.",
+  "name": "Magma Client",
+  "description": "A Pvp Client",
   "version": "9.19",
   "mcversion": "1.8.9",
-  "logoFile": "/mcplogo.png",
-  "url": "http://www.modcoderpack.com/website/",
-  "updateUrl": "",
-  "authors": ["Searge", "ProfMobius", "IngisKahn", "Fesh0r", "ZeuX", "R4wk", "LexManos", "Bspkrs", "Others"],
-  "credits": "Made by the MCP team",
+  "logoFile": "/magmaclientlogo.png",
+  "url": "http://www.magmaclient.cf/",
+  "updateUrl": "http://www.src.magmaclient.cf/artifact/1.8.9/update/",
+  "authors": ["NeyLePro"]
+  "credits": "By Magma Client",
   "parent": "",
   "screenshots": [],
   "dependencies": []
