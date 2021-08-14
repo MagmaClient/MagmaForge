@@ -4,6 +4,7 @@ import java.util.concurrent.Callable;
 
 import com.google.common.collect.ObjectArrays;
 
+import client.magma.common.CrashReporter;
 import net.minecraftforge.fml.common.FMLCommonHandler;
 import net.minecraftforge.fml.common.FMLLog;
 import net.minecraftforge.fml.common.Loader;
